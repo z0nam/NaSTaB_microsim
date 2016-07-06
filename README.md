@@ -1,0 +1,4 @@
+- requirement: STATA14
+- NaSTaB dataset should located at 
+	- ```../NaSTaB_H_stata
+	- ```../NaSTaB_P_stata
